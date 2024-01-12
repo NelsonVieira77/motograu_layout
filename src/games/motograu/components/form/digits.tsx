@@ -19,25 +19,25 @@ export default function Digits({ value, setValue }: Props) {
     <article className="flex justify-center gap-1 w-full">
       <button
         onClick={() => incrementValue(1.0)}
-        className="btn btn-xs flex-1 border-gray-600"
+        className="btn btn-xs flex-1  border-green-600"
       >
         1
       </button>
       <button
         onClick={() => incrementValue(2.0)}
-        className="btn btn-xs flex-1 border-gray-600"
+        className="btn btn-xs flex-1 border-green-600"
       >
         2
       </button>
       <button
         onClick={() => incrementValue(5.0)}
-        className="btn btn-xs flex-1 border-gray-600"
+        className="btn btn-xs flex-1 border-green-600 "
       >
         5
       </button>
       <button
         onClick={() => incrementValue(10.0)}
-        className="btn btn-xs flex-1 border-gray-600"
+        className="btn btn-xs flex-1  border-green-600"
       >
         10
       </button>

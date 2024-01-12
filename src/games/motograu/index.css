@@ -1,5 +1,5 @@
 .motograu-game {
-  background: linear-gradient(133deg,#00000017 0%,#1c101d 50%,#462948a2 100%)!important;
+  background: linear-gradient(133deg,#780a80a2 0%,#3e0542a2 50%,#0d0d0ea2 100%)!important;
 }
 
 .motograu-game .transaction-bar {
@@ -13,10 +13,10 @@
 }
 
 .motograu-game .results-bar {
-  background: linear-gradient(133deg,#00000017 0%,#1c101d 50%,#462948a2 100%)!important;
+  background: linear-gradient(133deg,#942d8f17 0%,#131213 50%,#080808a2 100%)!important;
 }
 
 .motograu-game .chat-container {
-  background: linear-gradient(133deg,#000000 0%,#1c101d 50%,#462948 100%)!important
+  background: linear-gradient(133deg,#942d8f17 0%,#131213 50%,#080808a2  100%)!important
  }
  

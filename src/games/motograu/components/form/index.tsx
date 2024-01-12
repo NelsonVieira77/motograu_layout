@@ -211,7 +211,6 @@ export default function CrashForm({
                 value={exitValue}
                 setValue={updateExitValue}
                 label="Auto Retirar"
-              }}
               />
             </div>
 

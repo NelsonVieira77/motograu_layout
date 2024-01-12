@@ -31,7 +31,7 @@ export default function HistoryTab() {
         </div>
       </section>
       <Header />
-      <section className="h-full flex-shrink-1 flex-grow basis-0  overflow-y-scroll scrollbar-w-0 scrollbar-track-gray-400 scrollbar-thumb-gray-700 scrollbar scrollbar-track-rounded scrollbar-thumb-rounded">
+      <section className="h-full flex-shrink-1 flex-grow basis-0  overflow-y-scroll scrollbar-w-0 scrollbar-track-purple-400 scrollbar-thumb-purple-700 scrollbar scrollbar-track-rounded scrollbar-thumb-rounded">
         <BetList items={betsHistory} />
       </section>
     </div>

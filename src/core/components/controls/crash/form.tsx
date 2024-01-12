@@ -148,7 +148,7 @@ export default function CrashForm({
   ]
 
   return (
-    <div className="bg-black border border-gray-600 bg-opacity-20 border-opacity-20 crash-form w-full h-45 md:w-1/2 flex rounded-md p-3 relative">
+    <div className="bg-black border border-purple-800 bg-opacity-20 border-opacity-20 crash-form w-full h-45 md:w-1/2 flex rounded-md p-3 relative">
       <If condition={toggleSecond && !secondEnabled}>
         <button
           onClick={toggleSecond}

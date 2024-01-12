@@ -39,6 +39,7 @@
     "sort-by": "^0.0.2",
     "text-mask-addons": "^3.8.0",
     "use-immer": "^0.8.1",
+    "yarn": "^1.22.21",
     "yup": "^1.0.2"
   },
   "devDependencies": {
